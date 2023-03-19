@@ -1,0 +1,1 @@
+<p>The class ResponseBuilder wasn't made as a class hierarchy , with heridation  </p>
